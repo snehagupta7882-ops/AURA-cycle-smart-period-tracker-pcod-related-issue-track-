@@ -25,7 +25,7 @@ https://auracycle.onrender.com/ (this id for live demo)
 
 ---
 
-## ❗ The Problem
+## ❗ The problem
 
 > **1 in 5 young women in India** has PCOD or PCOS.  
 > **70% of these cases go undiagnosed** — with an average diagnosis delay of **2 years**.
@@ -51,7 +51,7 @@ AuraCycle is not just a tracker. It's a smart health system that:
 
 ## ✨ Features
 
-### 📅 Cycle Tracking
+### 📅 Cycle tracking
 - Log period start/end dates and flow intensity
 - Supports **irregular cycles** — not limited to 28-day assumptions
 - Track **15+ symptoms**: cramps, acne, hair loss, mood swings, weight changes, and more
