@@ -18,8 +18,8 @@ https://auracycle.onrender.com/ (this id for live demo)
 | Name | Role |
 |------|------|
 | **Sneha** | Frontend Developer |
-| **Chinky** | Solution Design + Demo |
-| **Vishal** | Backend / ML Support |
+| **Chinky** | Solution Design + Demo + backend |
+| **Vishal** |  ML Support |
 
 > GL Bajaj Institute of Technology & ABES Engineering College
 
